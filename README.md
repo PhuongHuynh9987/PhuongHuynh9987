@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phuong Huynh
 - 👀 I’m interested in programming, mathematics, and solving problems
-- 🌱 I’m currently pursing my bachelor's degree in Applied Mathematics, Satistics Concentration and minoring in Computer Science @ San Jose State University. 
+- 🌱 I’m currently pursing a bachelor's degree in Applied Mathematics, Satistics Concentration and minoring in Computer Science @ San Jose State University. 
 - 💞️ After spending some time finding my own interests and myself, I realized how much enjoy solving problems and understanding the algorithm in everything I do, not only in academic matters but also in daily life. I have been working on projects and finding ways to improve my own technical skills.
 
 - 🌱 Looking forward to learning and involving with great sources for my educational journey!
