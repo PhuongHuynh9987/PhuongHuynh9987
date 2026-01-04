@@ -5,7 +5,7 @@
 
 - 🌱 Looking forward to learning and involving great sources for my educational journey!
 
-- 📫 How to reach me: huynhphuong9987@gmail.com
+- 📫 How to reach me: phuonghuynh9987@gmail.com
 
 <!---
 PhuongHuynh9987/PhuongHuynh9987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
